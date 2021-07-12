@@ -2,7 +2,7 @@
 
 Configuración inicial para utilizar webpack.
 
-### Notas:
+## Notas
 
 - Inicializar modulos:
 
