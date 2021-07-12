@@ -7,7 +7,7 @@ Configuración inicial para utilizar webpack.
 - Inicializar modulos:
 
 ```
-npm instal
+npm install
 ```
 
 - Construir el build:
@@ -16,3 +16,8 @@ npm instal
 npm run build
 ```
 
+- Servidor de prueba:
+
+```
+npm run serve
+``` 
